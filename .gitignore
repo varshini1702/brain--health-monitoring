@@ -1,0 +1,9 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+# Ignore environment files
+.env
+# Ignore virtual environment folder
+venv/
+# Ignore Firebase credentials if any
+firebase_credentials.json
